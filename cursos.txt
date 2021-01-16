@@ -1,0 +1,91 @@
+002,Física - Bacharelado
+003,Química - Bacharelado
+005,Direito (Noturno)
+009,Nutrição
+012,Educação Física Curricular - Efc - (Coordenação)
+101,Enfermagem
+102,Farmácia
+103,Medicina
+104,Odontologia
+108,Ciências Biológicas
+109,Fonoaudiologia
+110,Ciências Biológicas - Licenciatura (Noturno)
+201,Engenharia Civil
+202,Engenharia Elétrica
+203,Engenharia Mecânica
+205,Química - Licenciatura
+207,Arquitetura E Urbanismo
+208,Ciências Da Computação
+211,Engenharia Sanitária E Ambiental
+212,Engenharia De Produção Civil
+213,Engenharia De Produção Elétrica
+214,Engenharia De Produção Mecânica
+215,Engenharia De Alimentos
+216,Engenharia Química
+220,Engenharia De Controle E Automação
+222,Matemática - Bacharelado
+223,Matemática - Licenciatura
+225,Física - Licenciatura (Noturno)
+230,Meteorologia
+233,Engenharia De Materiais
+234,Engenharia De Aquicultura
+235,Engenharia Eletrônica
+236,Engenharia De Materiais [Semestral]
+238,Sistemas De Informação (Noturno)
+301,Administração
+302,Ciências Contábeis
+303,Direito
+304,Ciências Econômicas
+307,Filosofia - Licenciatura
+308,Pedagogia
+309,Serviço Social
+310,Ciências Sociais
+316,Administração (Noturno)
+317,Ciências Contábeis (Noturno)
+318,Ciências Econômicas (Noturno)
+319,Psicologia
+320,Ciências Sociais (Noturno)
+323,Filosofia - Bacharelado (Noturno)
+324,Biblioteconomia (Noturno)
+326,História
+327,História (Noturno)
+328,Filosofia
+329,Filosofia (Noturno)
+331,Geografia
+332,Geografia (Noturno)
+333,Oceanografia
+334,Educação Do Campo - Licenciatura
+335,Arquivologia
+336,Geologia
+337,Antropologia
+338,Museologia
+339,Serviço Social (Noturno)
+340,Relações Internacionais
+341,Intercultural Indigena Do Sul Da Mata Atlântica - Licenciatura
+342,Ciência Da Informação
+404,Educação Física - Licenciatura
+415,Jornalismo
+421,Letras - Alemão
+423,Letras - Espanhol
+424,Letras - Francês
+425,Letras - Inglês
+426,Letras - Língua Portuguesa E Literaturas (Noturno)
+427,Letras - Italiano
+428,Letras - Língua Portuguesa E Literaturas
+429,Secretariado Executivo (Noturno)
+440,Letras - Libras - Língua Brasileira De Sinais - Licenciatura
+441,Letras - Libras - Língua Brasileira De Sinais - Bacharelado
+444,Educação Física - Bacharelado
+450,Cinema
+451,Artes Cênicas
+452,Design, Habilitação Em Design De Produto
+454,Design
+455,Animação - Bacharelado
+460,Letras Alemão - Ciclo Básico - Área Básica De Ingresso (Abi)
+463,Letras Espanhol - Ciclo Básico - Área Básica De Ingresso (Abi)
+466,Letras Francês - Ciclo Básico - Área Básica De Ingresso (Abi)
+469,Letras Inglês - Ciclo Básico - Área Básica De Ingresso (Abi)
+472,Letras Italiano - Ciclo Básico - Área Básica De Ingresso (Abi)
+501,Agronomia
+502,Zootecnia
+503,Ciência E Tecnologia De Alimentos
